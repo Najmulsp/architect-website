@@ -140,13 +140,10 @@ color: #727272;
     border-radius: 8px;
     background: #FF900E;
     width: 342px;
-/* height: 200px; */
 padding: 40px;
 text-align: center;
 position: relative;
 bottom: 100px;
-/* margin: -100px 0 -40px -20px;
-padding: -40px 40px; */
 }
 .btn2 h1{
     color: #FFF;
@@ -159,7 +156,6 @@ padding: -40px 40px; */
     color: #FFF;
     font-size: 1rem;
     font-weight: 700;
-    /* position: absolute; */
     margin-bottom:;
   
 }
@@ -229,6 +225,7 @@ font-size: 1.2rem;
     }
     .teams-img-container{
         grid-template-columns: 1fr;
+        padding-left: 20px;
     }
     .feature{
         flex-direction: column;
